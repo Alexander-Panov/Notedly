@@ -2,8 +2,8 @@
 import React from "react";
 import styled from "styled-components";
 
-import Header from "./header";
-import Navigation from "./navigation";
+import Header from "./Header";
+import Navigation from "./Navigation";
 
 // Стили компонента
 const Wrapper = styled.div`
